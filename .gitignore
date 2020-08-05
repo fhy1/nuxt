@@ -1,0 +1,22 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+pubspec.lock
+.packages
+node_modules
+.nuxt
+dist
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
